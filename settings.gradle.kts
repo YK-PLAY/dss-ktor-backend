@@ -1,3 +1,4 @@
 rootProject.name = "dss-ktor-backend"
 
-include("auth")
+include("dss-common")
+include("dss-auth")
